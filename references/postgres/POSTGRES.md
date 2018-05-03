@@ -1,4 +1,4 @@
-Geting in Psql
+Getting in Psql
 ==============
 
 In order to connect to PostgresSQL through the terminal:
