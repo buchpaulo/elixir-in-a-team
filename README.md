@@ -41,20 +41,34 @@ to write code for you team, enjoy.
   * [error-handling](references/elixir/ERROR_HANDLING.md) - many good strategies
   * [with](references/elixir/WITH.md) - pipelines using {:ok, res} and {:error, message} pattern matchings
   * [pipes](references/elixir/PIPES.md) - many options on how to use them
-  * [debugging](references/DEBUGGING.md) - local and remote debugging techniques 
+  * [debugging](references/elixir/DEBUGGING.md) - local and remote debugging techniques 
+  * [monitoring](references/elixir/MONITORING.md) - metrics collection,
+      application monitoring, tracing and profiling, and exception monitoring.
   * [documentation](references/elixir/DOCUMENTATION.md) - writing documentation
+  * [pattern-matching](references/elixir/PATTERN-MATCHING.md) - big advantages !
   * TODO: [boilerplate](references/BOILERPLATE.md) - essential dependencies: ex_doc, dialyzer, sentry, docker, etc... 
+  * TODO: http://www.jeramysingleton.com/phoenix-templates-are-just-functions/
 
-### Phoenix
+### Phoenix / Ecto
 
   * [conn](references/phoenix/CONN.md) - http data structure
   * [controllers](references/phoenix/CONTROLLERS.md) - design patterns in
       controllers
   * [plug](references/phoenix/PLUG.md) - building components to http calls
+  * [multi](references/phoenix/ecto/MULTI.md) - multi with examples on cross
+  * [migrations](references/phoenix/ecto/MIGRATIONS.md) - migrations cheat sheet
+
+  
 
 ### GIT
   * [git](references/git/GIT.md) - code repository to share code with a team
 
+### Semiotics
+  * [overview](references/semiotics/SEMIOTICS.md) - it's all is about
+      communication
+
+### Postgres
+  * [postgres](references/postgres/POSTGRES.md) - Tutorials, tips, etc...
 
 ### Typing
 
